@@ -15,12 +15,13 @@ First part Of code:
     .popout-chat-page, .chat-room, .tw-c-background-alt,
     .chat-container, .ember-chat-container {
     
-    background: rgba(0,0,0,0)!important; 
+      background: rgba(0,0,0,0)!important; 
 THIS PART IS IMPORTANT AND IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
     
-    background-color: rgba(0,0,0,0)!important;  
-SAME AS BG THIS IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
+      background-color: rgba(0,0,0,0)!important;  
     }
+SAME AS BG THIS IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
+    
 
 --------------------------------------------------------------------------
 ON TO NEXT CODE WHERE THE MAGIC HAPPENS :D
@@ -38,8 +39,8 @@ SIMPLEBAR CONTENT IS RESPONSIBLE FOR THE CHAT FONT, COLOR, SIZE IF YOU WANT TO C
 TO CHANGE CHAT SIZE SIMPLY REPLACE THE "25px" number to what ever size you want Example: 13px
 how to change: "font-size: 25px!important;" (always ignore "") and your all set! 
     
-    font-family: UD Digi Kyokasho NK-B !important; 
-}
+        font-family: UD Digi Kyokasho NK-B !important; 
+    }
 
 TO CHANGE CHAT FONT SIMPLY REPLACE "UD DIGI KYOKASHO NK-B" WITH YOUR DESIRED FONT
 EXAMPLE: ARIAL " font-family: Arial !important; " (always ignore "") and your all set! 
@@ -61,8 +62,8 @@ WHAT YOU WANT TO DO IS REPLACE "#FFB6C1" WITH "D4E6F1" (CLEAR INSTRUCTION BELOW)
 -------------------------------------------------------------------------- 
 HOW TO REPLACE:
  
-                FROM: color: #ffb6c1;
-                TO: color: #D4E6F1; 
+    FROM: color: #ffb6c1;
+    TO: color: #D4E6F1; 
 
 --------------------------------------------------------------------------
 AFTER THAT YOUR ALL SET! SAVE AND REFRESH AND YOU SHOULD 
