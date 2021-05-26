@@ -21,6 +21,7 @@ THIS PART IS IMPORTANT AND IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
     background-color: rgba(0,0,0,0)!important;  
 SAME AS BG THIS IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
     }
+
 --------------------------------------------------------------------------
 ON TO NEXT CODE WHERE THE MAGIC HAPPENS :D
 
@@ -67,6 +68,7 @@ HOW TO REPLACE:
 AFTER THAT YOUR ALL SET! SAVE AND REFRESH AND YOU SHOULD 
 SEE OBS WITH DIFFERENT COLOR, FONT, + TRANSPARENT BACKGROUND
 Link to where you can find HEX color codes: https://htmlcolorcodes.com/
+
 --------------------------------------------------------------------------
 Made with Love <3
 -Harleythegreaat, MysticMusic, Harley, Harleythetech 
