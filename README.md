@@ -7,8 +7,14 @@ I Discovered this while Experimenting with Dev Tools In Microsoft Edge
 Instructions on how to change everything 
 
 First Open OBS once it's open Locate your Browser source/TChat the right click and click on properties
+
+--------------------------------------------------------------------------
 Once your in locate Custom CSS then Open the code you downloaded using notpad or Notepad++ (recommended)
+
+--------------------------------------------------------------------------
 Copy the code and paste it in the Custom CSS section In OBS
+
+--------------------------------------------------------------------------
 Like this:
 ![Screenshot 2021-05-26 202314](https://user-images.githubusercontent.com/51787264/119659939-42fe4f80-be61-11eb-8405-030490ee932c.png)
 
