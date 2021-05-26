@@ -6,7 +6,7 @@ I Discovered this while Experimenting with Dev Tools In Microsoft Edge
 --------------------------------------------------------------------------
 Instructions on how to change everything 
 
-First Open OBS once it's open Locate your Browser source/TChat the right click and click on properties
+First Open OBS once it's open Locate your Browser source/TChat then right click and click on properties
 
 --------------------------------------------------------------------------
 Once your in locate Custom CSS then Open the code you downloaded using notpad or Notepad++ (recommended)
