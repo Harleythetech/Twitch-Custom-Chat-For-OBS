@@ -9,11 +9,11 @@ Instructions on how to change everything
 --------------------------------------------------------------------------
 First part Of code:
 --------------------------------------------------------------------------
-html, body,
-.room-selector, .room-selector__header,
-.twilight-minimal-root, .tw-root--theme-light,
-.popout-chat-page, .chat-room, .tw-c-background-alt,
-.chat-container, .ember-chat-container {
+    html, body,
+    .room-selector, .room-selector__header,
+    .twilight-minimal-root, .tw-root--theme-light,
+    .popout-chat-page, .chat-room, .tw-c-background-alt,
+    .chat-container, .ember-chat-container {
     
     background: rgba(0,0,0,0)!important; <-----------THIS PART IS IMPORTANT AND IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
     
@@ -27,27 +27,29 @@ SIMPLEBAR CONTENT IS RESPONSIBLE FOR THE CHAT FONT, COLOR, SIZE IF YOU WANT TO C
 
 --------------------------------------------------------------------------
 (second part of code)
-.simplebar-content {
+ 
+    .simplebar-content {
     
-    font-size: 25px!important;  
+        font-size: 25px!important;  
 
 TO CHANGE CHAT SIZE SIMPLY REPLACE THE "25px" number to what ever size you want Example: 13px
 how to change: "font-size: 25px!important;" (always ignore "") and your all set! 
     
     font-family: UD Digi Kyokasho NK-B !important; 
+}
 
 TO CHANGE CHAT FONT SIMPLY REPLACE "UD DIGI KYOKASHO NK-B" WITH YOUR DESIRED FONT
 EXAMPLE: ARIAL " font-family: Arial !important; " (always ignore "") and your all set! 
-}
+
 
 --------------------------------------------------------------------------
 (third and last code responbsible for the color of the font) ( lASTLY WANT TO CHANGE THE CHAT COLOR? WELL HERE'S HOW TO DO IT! )
 
-.tw-root--theme-dark .chat-line__moderation, .tw-root--theme-dark .chat-line__status, .tw-root--theme-dark .chat-line__message {
+    .tw-root--theme-dark .chat-line__moderation, .tw-root--theme-dark .chat-line__status, .tw-root--theme-dark .chat-line__message {
 
- color: #ffb6c1; 
+      color: #ffb6c1; 
 
-}
+    }
 --------------------------------------------------------------------------
 IN ORDER TO CHANGE COLOR YOU NEED TO CHANGE THE HEXCIDECIMAL CODE (HEX FOR SHORT) WHICH IS THE "#FFB6C1" TO CHANGE THIS
  YOU WILL NEED A HEX COLOR CODE (LINK TO WHERE TO FIND ONE WILL BE INCLUDED) SO LET'S SAY YOU FOUND THE COLOR YOU WANT EXAMPLE:  "#D4E6F1"
