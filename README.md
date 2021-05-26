@@ -10,6 +10,8 @@ First Open OBS once it's open Locate your Browser source/TChat then right click 
 
 --------------------------------------------------------------------------
 Once your in locate Custom CSS then Open the code you downloaded using notpad or Notepad++ (recommended)
+![image](https://user-images.githubusercontent.com/51787264/119660651-14cd3f80-be62-11eb-850d-ef67f7920576.png)
+Or! directly copy this code! from here: https://github.com/SSDMT-DEV-HARLEY/Twitch-Custom-Chat-For-OBS/blob/main/Twitch%20Chat%20Transparent%2CFont%20Color%2CFont%20swap.css
 
 --------------------------------------------------------------------------
 Copy the code and paste it in the Custom CSS section In OBS
