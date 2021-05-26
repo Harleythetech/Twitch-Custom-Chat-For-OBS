@@ -15,10 +15,12 @@ First part Of code:
     .popout-chat-page, .chat-room, .tw-c-background-alt,
     .chat-container, .ember-chat-container {
     
-    background: rgba(0,0,0,0)!important; <-----------THIS PART IS IMPORTANT AND IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
+    background: rgba(0,0,0,0)!important; 
+THIS PART IS IMPORTANT AND IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
     
-    background-color: rgba(0,0,0,0)!important;  <------------------SAME AS BG THIS IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
-}
+    background-color: rgba(0,0,0,0)!important;  
+SAME AS BG THIS IS RESPONSIBLE FOR MAKING CHAT TRANSPARENT
+    }
 --------------------------------------------------------------------------
 ON TO NEXT CODE WHERE THE MAGIC HAPPENS :D
 
@@ -56,7 +58,8 @@ IN ORDER TO CHANGE COLOR YOU NEED TO CHANGE THE HEXCIDECIMAL CODE (HEX FOR SHORT
 WHAT YOU WANT TO DO IS REPLACE "#FFB6C1" WITH "D4E6F1" (CLEAR INSTRUCTION BELOW)
 
 -------------------------------------------------------------------------- 
-HOW TO REPLACE: 
+HOW TO REPLACE:
+ 
                 FROM: color: #ffb6c1;
                 TO: color: #D4E6F1; 
 
