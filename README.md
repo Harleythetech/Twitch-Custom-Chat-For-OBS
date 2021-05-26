@@ -61,7 +61,7 @@ HOW TO REPLACE:
 --------------------------------------------------------------------------
 AFTER THAT YOUR ALL SET! SAVE AND REFRESH AND YOU SHOULD 
 SEE OBS WITH DIFFERENT COLOR, FONT, + TRANSPARENT BACKGROUND
-
+Link to where you can find HEX color codes: https://htmlcolorcodes.com/
 --------------------------------------------------------------------------
 Made with Love <3
 -Harleythegreaat, MysticMusic, Harley, Harleythetech 
