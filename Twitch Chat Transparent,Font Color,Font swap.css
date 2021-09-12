@@ -1,4 +1,10 @@
-//CODED BY HARLEY --- TCCFO//
+/*
+ @name "TCCFO-Twitch-Custom-Chat-For-OBS"
+ @version 1.1.b
+ @description "A custom Twitch chat tool that customizes the UI of the chat"
+ @author Harley#3380
+ @note " :) "
+*/
 html, body,
 .room-selector, .room-selector__header,
 .twilight-minimal-root, .tw-root--theme-light,
